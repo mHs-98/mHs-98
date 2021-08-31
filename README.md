@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mHs-98
 - 👀 I’m interested in DevOps and/or cloud engineer role
-- 🌱 I’m currently learning/writing my bachelor thesis on a collabrative malware analysis environment using Ansible and openstack platfor. Also learning about MS Azure 
+- 🌱 I’m currently learning/writing my bachelor thesis on a collabrative malware analysis environment using Ansible and openstack platform. Also learning about MS Azure 
 on my spare time.
 - 📫 How to reach me: +4797372577, msaid643@gmail.com. 
 
